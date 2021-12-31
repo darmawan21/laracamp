@@ -35,3 +35,4 @@ class Store extends FormRequest
         ];
     }
 }
+ 
