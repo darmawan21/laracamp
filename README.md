@@ -139,7 +139,7 @@ A few resources to get you started if this your firt Laravel Project
 <a href="https://github.com/darmawan21/laracamp">
     <img src="public/images/Cover.png" alt="Product Name Screen">
 </a>
-<a href="https://github.com/darmawan21/laracamp">s
+<a href="https://github.com/darmawan21/laracamp">
     <img src="public/images/laracamp-page.png" alt="Product Name Screen">
 </a>
 
