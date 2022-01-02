@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/darmawan21/laracamp">
-    <img src="public/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="public/images/logo.png" alt="Logo" width="88" height="20">
   </a>
 
 <h3 align="center">Laracamp</h3>
@@ -89,42 +89,43 @@ A few resources to get you started if this your firt Laravel Project
 
 1. Create and get API Key Credentials Oauth Goolge Account (https://https://console.cloud.google.com/apis/dashboard)
 2. Create and get Key Midtrans Payment Gateway (https://midtrans.com/)
-2. Clone the repo
+3. Clone the repo
    ```sh
    git clone https://github.com/darmawan21/laracamp.git
    ```
-3. Install Depedency
+4. Install Depedency
    ```sh
    composer install
    ```
-4. Setup Environmetn Variable
+5. Setup Environmetn Variable
    ```sh
    cp .env.example .env
    ```
-5. Enter your APP_KEY if it's not already in the `.env` file
+6. Enter your APP_KEY if it's not already in the `.env` file
    ```sh
    php artisan key:generate
    ```
-6. customize your database name in file `.env`
-7. Enter your Oauth Google Account API in `.env`
+7. customize your database name in file `.env`
+8. Enter your Oauth Google Account API in `.env`
    ```sh
    GOOGLE_CLIENT_ID= YOUR API KEY 
    GOOGLE_CLIENT_SECRET= YOUR API KEY 
    GOOGLE_CLIENT_REDIRECT= YOUR API KEY 
    ```
-8. Enter your Midtrans Payment Gateway API in `.env`
+9. Enter your Midtrans Payment Gateway API in `.env`
    ```sh
    MIDTRANS_SERVERKEY = YOUR API KEY
    MIDTRANS_CLIENTKEY = YOUR API KEY
    ```
-9. Migrate and Seed
-   ```sh
-   php artisan migrate --seed
-   ```
-10. Run Local Dev Server
-   ```sh
-   php artisan serve
-   ```
+10. Migrate and Seed
+    ```sh
+    php artisan migrate --seed
+    ```
+11. Run Local Dev Server
+    ```sh
+    php artisan serve
+    ```
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -136,7 +137,7 @@ A few resources to get you started if this your firt Laravel Project
 [![Cover Laracamp][product-screenshot]](https://github.com/darmawan21/laracamp/blob/main/public/images/Cover.png)
 [![Laracamp Page][product-screenshot]](https://github.com/darmawan21/laracamp/blob/main/public/images/laracamp-page.png)
 
-_For more examples can open website [Laracamp](https://laracamp.id/)
+For more examples can open website [Laracamp](https://laracamp.id/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
