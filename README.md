@@ -57,6 +57,9 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/darmawan21/laracamp/blob/main/public/images/Cover.png)
+<a href="https://github.com/darmawan21/laracamp">
+    <img src="public/images/Cover.png" alt="Product Name Screen">
+</a>
 
 So far, many prospective developers have studied in an unstructured and undirected way that relies on many sources of information, in this case many developers are confused about where to start and unwittingly a lot of time is wasted. Laracamp offers alternative solutions that allow developers to learn in a structured and directed manner through the bootcamp available on the Laracamp website.
 
@@ -136,6 +139,13 @@ A few resources to get you started if this your firt Laravel Project
 
 [![Cover Laracamp][product-screenshot]](https://github.com/darmawan21/laracamp/blob/main/public/images/Cover.png)
 [![Laracamp Page][product-screenshot]](https://github.com/darmawan21/laracamp/blob/main/public/images/laracamp-page.png)
+
+<a href="https://github.com/darmawan21/laracamp">
+    <img src="public/images/Cover.png" alt="Product Name Screen">
+</a>
+<a href="https://github.com/darmawan21/laracamp">
+    <img src="public/images/laracamp-page.png" alt="Product Name Screen">
+</a>
 
 For more examples can open website [Laracamp](https://laracamp.id/)
 
