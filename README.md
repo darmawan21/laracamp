@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/darmawan21/laracamp">
-    <img src="public/images/logo.png" alt="Logo" width="88" height="20">
+    <img src="public/images/logo.png" alt="Logo" width="145" height="33">
   </a>
 
 <h3 align="center">Laracamp</h3>
@@ -56,7 +56,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/darmawan21/laracamp/blob/main/public/images/Cover.png)
 <a href="https://github.com/darmawan21/laracamp">
     <img src="public/images/Cover.png" alt="Product Name Screen">
 </a>
@@ -137,13 +136,10 @@ A few resources to get you started if this your firt Laravel Project
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-[![Cover Laracamp][product-screenshot]](https://github.com/darmawan21/laracamp/blob/main/public/images/Cover.png)
-[![Laracamp Page][product-screenshot]](https://github.com/darmawan21/laracamp/blob/main/public/images/laracamp-page.png)
-
 <a href="https://github.com/darmawan21/laracamp">
     <img src="public/images/Cover.png" alt="Product Name Screen">
 </a>
-<a href="https://github.com/darmawan21/laracamp">
+<a href="https://github.com/darmawan21/laracamp">s
     <img src="public/images/laracamp-page.png" alt="Product Name Screen">
 </a>
 
