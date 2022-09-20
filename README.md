@@ -192,11 +192,18 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Muhammad Diki Darmawan - [@ddrwwn](https://twitter.com/ddrwwn) - [LinkedIn](https://linkedin.com/in/muhammad-diki-darmawan-95528841a1) - d.darmawan2111@gmail.com
-
-Project Link: [https://github.com/darmawan21/laracamp](https://github.com/darmawan21/laracamp)
+- Email : [muhammaddiki.dev@gmail.com](mailto:muhammaddiki.dev@gmail.com)
+- LinkedIn: [Muhammad Diki Darmawan](https://www.linkedin.com/in/muhammad-diki-darmawan)
+- Twitter: [@ddrwwn](https://twitter.com/ddrwwn)
+- Project Link: [https://github.com/darmawan21/laracamp](https://github.com/darmawan21/laracamp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+---
+
+© 2022 — Muhammad Diki Darmawan
+
+
 
 
 
